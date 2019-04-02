@@ -7,14 +7,12 @@
         {
             "name": "互联网口头禅",
             "type": "image",
-            "url": "https://raw.githubusercontent.com/tabhub/cards/master/fun/programmer-self-mockery/images/koutouchan.jpeg",
-            "location": "github"
+            "url": "https://raw.githubusercontent.com/tabhub/cards/master/fun/programmer-self-mockery/images/koutouchan.jpeg"
         },
         {
             "name": "时间与金钱",
             "type": "image",
-            "url": "https://raw.githubusercontent.com/tabhub/cards/master/fun/programmer-self-mockery/images/qianheshijian.jpeg",
-            "location": "github"
+            "url": "https://raw.githubusercontent.com/tabhub/cards/master/fun/programmer-self-mockery/images/qianheshijian.jpeg"
         }
     ]
 }

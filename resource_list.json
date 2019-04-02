@@ -1,7 +1,8 @@
 {
   "categories": [
     "Languages",
-    "Fun"
+    "Fun",
+    "Help"
   ],
   "items": [
     [
@@ -42,6 +43,12 @@
       {
         "name": "网络段子",
         "url": "https://raw.githubusercontent.com/tabhub/cards/master/fun/social-network-funny-pieces/manifest.json"
+      }
+    ],
+    [
+      {
+        "name": "Getting Started Guide",
+        "url": "https://raw.githubusercontent.com/tabhub/cards/master/help/guide/manifest.json"
       }
     ]
   ]

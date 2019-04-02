@@ -1,0 +1,13 @@
+{
+    "name": "Help",
+    "version": "1.0",
+    "type": "category",
+    "repo": "https://github.com/tabhub/cards/help",
+    "items": [
+        {
+            "name": "Getting Started Guide",
+            "type": "resource",
+            "path": "/guide"
+        }
+    ]
+}

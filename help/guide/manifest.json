@@ -1,0 +1,13 @@
+{
+    "name": "Getting Started Guide",
+    "version": "1.0",
+    "repo": "https://github.com/tabhub/cards/help/guide",
+    "type": "resource",
+    "items": [
+        {
+            "name": "welcome new users",
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/tabhub/cards/master/help/guide/images/welcome.png"
+        }
+    ]
+}
