@@ -1,0 +1,48 @@
+{
+  "categories": [
+    "Languages",
+    "Fun"
+  ],
+  "items": [
+    [
+      {
+        "name": "Japanese | JLPT-N5 Vocabulary",
+        "url": "https://raw.githubusercontent.com/newtab-labs/cards/master/languages/japanese/jlpt-n5-vocabulary-jtest4you/manifest.json"
+      },
+      {
+        "name": "Japanese | JLPT-N4 Vocabulary",
+        "url": "https://raw.githubusercontent.com/newtab-labs/cards/master/languages/japanese/jlpt-n4-vocabulary-jtest4you/manifest.json"
+      },
+      {
+        "name": "Japanese | JLPT-N3 Vocabulary",
+        "url": "https://raw.githubusercontent.com/newtab-labs/cards/master/languages/japanese/jlpt-n3-vocabulary-jtest4you/manifest.json"
+      },
+      {
+        "name": "Japanese | JLPT-N2 Vocabulary",
+        "url": "https://raw.githubusercontent.com/newtab-labs/cards/master/languages/japanese/jlpt-n2-vocabulary-jtest4you/manifest.json"
+      },
+      {
+        "name": "Japanese | JLPT-N1 Vocabulary",
+        "url": "https://raw.githubusercontent.com/newtab-labs/cards/master/languages/japanese/jlpt-n1-vocabulary-jtest4you/manifest.json"
+      },
+      {
+        "name": "Japanese | Learn Japanese Kanji",
+        "url": "https://raw.githubusercontent.com/newtab-labs/cards/master/languages/japanese/learn-japanese-kanji-jtest4you/manifest.json"
+      },
+      {
+        "name": "Japanese | Japanese Phrases from Anime/Manga",
+        "url": "https://raw.githubusercontent.com/newtab-labs/cards/master/languages/japanese/japanese-phrases-from-animemanga-jtest4you/manifest.json"
+      }
+    ],
+    [
+      {
+        "name": "程序猿自黑指南",
+        "url": "https://raw.githubusercontent.com/newtab-labs/cards/master/fun/programmer-self-mockery/manifest.json"
+      },
+      {
+        "name": "网络段子",
+        "url": "https://raw.githubusercontent.com/newtab-labs/cards/master/fun/social-network-funny-pieces/manifest.json"
+      }
+    ]
+  ]
+}

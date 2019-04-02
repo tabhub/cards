@@ -1,0 +1,18 @@
+{
+    "name": "Fun",
+    "version": "1.0",
+    "type": "category",
+    "repo": "https://github.com/tabhub/cards/fun",
+    "items": [
+        {
+            "name": "程序猿自黑指南",
+            "type": "resource",
+            "path": "/programmer-self-mockery"
+        },
+        {
+            "name": "网络段子",
+            "type": "resource",
+            "path": "/social-network-funny-pieces"
+        }
+    ]
+}

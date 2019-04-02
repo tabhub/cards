@@ -1,0 +1,43 @@
+{
+    "name": "Japanese",
+    "version": "1.0",
+    "type": "category",
+    "repo": "https://github.com/tabhub/cards/languages/japanese",
+    "items": [
+        {
+            "name": "JLPT-N5 Vocabulary",
+            "type": "resource",
+            "path": "/jlpt-n5-vocabulary-jtest4you"
+        },
+        {
+            "name": "JLPT-N4 Vocabulary",
+            "type": "resource",
+            "path": "/jlpt-n4-vocabulary-jtest4you"
+        },
+        {
+            "name": "JLPT-N3 Vocabulary",
+            "type": "resource",
+            "path": "/jlpt-n3-vocabulary-jtest4you"
+        },
+        {
+            "name": "JLPT-N2 Vocabulary",
+            "type": "resource",
+            "path": "/jlpt-n2-vocabulary-jtest4you"
+        },
+        {
+            "name": "JLPT-N1 Vocabulary",
+            "type": "resource",
+            "path": "/jlpt-n1-vocabulary-jtest4you"
+        },
+        {
+            "name": "Learn Japanese Kanji",
+            "type": "resource",
+            "path": "/learn-japanese-kanji-jtest4you"
+        },
+        {
+            "name": "Japanese Phrases from Anime/Manga",
+            "type": "resource",
+            "path": "/japanese-phrases-from-animemanga-jtest4you"
+        }
+    ]
+}

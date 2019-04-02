@@ -1,0 +1,20 @@
+{
+    "name": "程序猿自黑指南",
+    "version": "1.0",
+    "repo": "https://github.com/tabhub/cards/fun/programmer-self-mochery",
+    "type": "resource",
+    "items": [
+        {
+            "name": "互联网口头禅",
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/tabhub/cards/master/fun/programmer-self-mockery/images/koutouchan.jpeg",
+            "location": "github"
+        },
+        {
+            "name": "时间与金钱",
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/tabhub/cards/master/fun/programmer-self-mockery/images/qianheshijian.jpeg",
+            "location": "github"
+        }
+    ]
+}
