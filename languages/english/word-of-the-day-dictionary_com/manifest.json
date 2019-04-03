@@ -3,7 +3,7 @@
   "version": "1.0",
   "repo": "https://github.com/tabhub/cards/languages/english/word-of-the-day-dictionary_com",
   "type": "resource",
-  "image_style": "550px*550px*70px",
+  "image_style": "500px*500px*70px",
   "items": [
     {
       "name": "769c5c1f6b28d4c6e785cd62837e4ca7",
