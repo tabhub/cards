@@ -6,7 +6,7 @@ You can follow some schema as such a JSON file to make your own resource, then i
 
 <image src="https://raw.githubusercontent.com/tabhub/cards/master/help/guide/images/how_to_set_your_own_resource_url.png" alt="TabHub: How to set a own made resource url" width="330px">
 
-## Table of Content
+# Table of Content
 
 ## Languages
 
