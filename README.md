@@ -6,7 +6,9 @@ You can follow some schema as such a [JSON file](https://raw.githubusercontent.c
 
 <image src="https://raw.githubusercontent.com/tabhub/cards/master/help/guide/images/how_to_set_your_own_resource_url.png" alt="TabHub: How to set a own made resource url" width="330px">
 
-# Table of Content
+# Table of Official Resources
+
+Note: The contents come from Internet, contact us to delete if some demages your copyright.
 
 ## Languages
 
