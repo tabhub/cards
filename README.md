@@ -8,48 +8,67 @@ You can follow some schema as such a JSON file to make your own resource, then i
 
 ## Table of Content
 
-### Languages
+## Languages
 
-#### Japanese | JLPT-N5 Vocabulary
+### Japanese | JLPT-N5 Vocabulary
 
-<image src="https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n5-vocabulary-jtest4you/images/14efdbbcea8854e6bbfdb470b283f192.jpg" width="50%">
+[Resource Url](https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n5-vocabulary-jtest4you/manifest.json)
 
-#### Japanese | JLPT-N4 Vocabulary
+<image src="https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n5-vocabulary-jtest4you/images/4f905f4d88dea7e0d2d2cc00283b9db4.jpg" width="50%">
 
-<image src="https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n4-vocabulary-jtest4you/images/f48d17f5400f8d62c1dc3b1842d0d3f4.jpg" width="50%">
+### Japanese | JLPT-N4 Vocabulary
 
-#### Japanese | JLPT-N3 Vocabulary
+[Resource Url](https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n4-vocabulary-jtest4you/manifest.json)
 
-<image src="https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n3-vocabulary-jtest4you/images/01b8f6f7ff0fd8ac67a85415de6f9167.jpg" width="50%">
+<image src="https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n4-vocabulary-jtest4you/images/7b79b54a46d5a34927d2e6e250d19059.jpg" width="50%">
 
-#### Japanese | JLPT-N2 Vocabulary
+### Japanese | JLPT-N3 Vocabulary
 
-<image src="https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n2-vocabulary-jtest4you/images/f2832f35f36a321206a41258713fe514.jpg" width="50%">
+[Resource Url](https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n3-vocabulary-jtest4you/manifest.json)
 
-#### Japanese | JLPT-N1 Vocabulary
+<image src="https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n3-vocabulary-jtest4you/images/384c8655ad1945cf294ed683a5cb14da.jpg" width="50%">
 
-<image src="https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n1-vocabulary-jtest4you/images/95136a05280ff3973fc2383cdebfe898.jpg" width="50%">
+### Japanese | JLPT-N2 Vocabulary
 
-#### Japanese | Learn Japanese Kanji
+[Resource Url](https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n2-vocabulary-jtest4you/manifest.json)
 
-<image src="https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/learn-japanese-kanji-jtest4you/images/17d6e384b3c08fca44d0734dd5f311eb.jpg" width="50%">
+<image src="https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n2-vocabulary-jtest4you/images/e0953496ca6b94e8a2dd7a54a00903ef.jpg" width="50%">
 
-#### Japanese | Japanese Phrases from Anime/Manga
+### Japanese | JLPT-N1 Vocabulary
 
-<image src="https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/japanese-phrases-from-animemanga-jtest4you/images/7272c3fac6a824a8c8ab4d071cd0e804.jpg" width="50%">
+[Resource Url](https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n1-vocabulary-jtest4you/manifest.json)
 
-### Fun
+<image src="https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n1-vocabulary-jtest4you/images/36e6ec3eb3dcd669ecd1243c17559423.jpg" width="50%">
 
-#### 程序猿自黑指南
+### Japanese | Learn Japanese Kanji
+
+[Resource Url](https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/learn-japanese-kanji-jtest4you/manifest.json)
+
+<image src="https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/learn-japanese-kanji-jtest4you/images/c3ea3cbb9fdab6caf39aabdf4ab1988e.jpg" width="50%">
+
+### Japanese | Japanese Phrases from Anime/Manga
+
+[Resource Url](https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/japanese-phrases-from-animemanga-jtest4you/manifest.json)
+
+<image src="https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/japanese-phrases-from-animemanga-jtest4you/images/6c0e5a8334918b3c3b5dc1cc8efdf2a8.jpg" width="50%">
+
+## Fun
+
+### 程序猿自黑指南
+
+[Resource Url](https://raw.githubusercontent.com/tabhub/cards/master/fun/programmer-self-mockery/manifest.json)
 
 <image src="https://raw.githubusercontent.com/tabhub/cards/master/fun/programmer-self-mockery/images/qianheshijian.jpeg" width="50%">
 
-#### 网络段子
+### 网络段子
 
-<image src="" width="50%">
+[Resource Url](https://raw.githubusercontent.com/tabhub/cards/master/fun/social-network-funny-pieces/manifest.json)
 
-### Help
+## Help
 
-#### Getting Started Guide
+### Getting Started Guide
+
+[Resource Url](https://raw.githubusercontent.com/tabhub/cards/master/help/guide/manifest.json)
 
 <image src="https://raw.githubusercontent.com/tabhub/cards/master/help/guide/images/welcome.png" width="50%">
+
