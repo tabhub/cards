@@ -11,64 +11,53 @@ You can follow some schema as such a JSON file to make your own resource, then i
 ## Languages
 
 ### Japanese | JLPT-N5 Vocabulary
+([Resource Url](https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n5-vocabulary-jtest4you/manifest.json))
 
-[Resource Url](https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n5-vocabulary-jtest4you/manifest.json)
-
-<image src="https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n5-vocabulary-jtest4you/images/4f905f4d88dea7e0d2d2cc00283b9db4.jpg" width="50%">
+<image src="https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n5-vocabulary-jtest4you/images/990704695d0607696d59056b0e2f7b50.jpg" width="30%">
 
 ### Japanese | JLPT-N4 Vocabulary
+([Resource Url](https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n4-vocabulary-jtest4you/manifest.json))
 
-[Resource Url](https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n4-vocabulary-jtest4you/manifest.json)
-
-<image src="https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n4-vocabulary-jtest4you/images/7b79b54a46d5a34927d2e6e250d19059.jpg" width="50%">
+<image src="https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n4-vocabulary-jtest4you/images/597fcf1c838584d6011595d233331315.jpg" width="30%">
 
 ### Japanese | JLPT-N3 Vocabulary
+([Resource Url](https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n3-vocabulary-jtest4you/manifest.json))
 
-[Resource Url](https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n3-vocabulary-jtest4you/manifest.json)
-
-<image src="https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n3-vocabulary-jtest4you/images/384c8655ad1945cf294ed683a5cb14da.jpg" width="50%">
+<image src="https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n3-vocabulary-jtest4you/images/2899834bf3769bb877591b101673e82b.jpg" width="30%">
 
 ### Japanese | JLPT-N2 Vocabulary
+([Resource Url](https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n2-vocabulary-jtest4you/manifest.json))
 
-[Resource Url](https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n2-vocabulary-jtest4you/manifest.json)
-
-<image src="https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n2-vocabulary-jtest4you/images/e0953496ca6b94e8a2dd7a54a00903ef.jpg" width="50%">
+<image src="https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n2-vocabulary-jtest4you/images/292210c8aac1b859ccb54ffd35be2fa0.jpg" width="30%">
 
 ### Japanese | JLPT-N1 Vocabulary
+([Resource Url](https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n1-vocabulary-jtest4you/manifest.json))
 
-[Resource Url](https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n1-vocabulary-jtest4you/manifest.json)
-
-<image src="https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n1-vocabulary-jtest4you/images/36e6ec3eb3dcd669ecd1243c17559423.jpg" width="50%">
+<image src="https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n1-vocabulary-jtest4you/images/0e0bfa8cd837ecd2a0f93ab9f643bf27.jpg" width="30%">
 
 ### Japanese | Learn Japanese Kanji
+([Resource Url](https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/learn-japanese-kanji-jtest4you/manifest.json))
 
-[Resource Url](https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/learn-japanese-kanji-jtest4you/manifest.json)
-
-<image src="https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/learn-japanese-kanji-jtest4you/images/c3ea3cbb9fdab6caf39aabdf4ab1988e.jpg" width="50%">
+<image src="https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/learn-japanese-kanji-jtest4you/images/505d214f6b66c02ea70e117baed3ad13.jpg" width="30%">
 
 ### Japanese | Japanese Phrases from Anime/Manga
+([Resource Url](https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/japanese-phrases-from-animemanga-jtest4you/manifest.json))
 
-[Resource Url](https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/japanese-phrases-from-animemanga-jtest4you/manifest.json)
-
-<image src="https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/japanese-phrases-from-animemanga-jtest4you/images/6c0e5a8334918b3c3b5dc1cc8efdf2a8.jpg" width="50%">
+<image src="https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/japanese-phrases-from-animemanga-jtest4you/images/f3a5eb23b50e511f1abae809f48e43c8.jpg" width="30%">
 
 ## Fun
 
 ### 程序猿自黑指南
+([Resource Url](https://raw.githubusercontent.com/tabhub/cards/master/fun/programmer-self-mockery/manifest.json))
 
-[Resource Url](https://raw.githubusercontent.com/tabhub/cards/master/fun/programmer-self-mockery/manifest.json)
-
-<image src="https://raw.githubusercontent.com/tabhub/cards/master/fun/programmer-self-mockery/images/qianheshijian.jpeg" width="50%">
+<image src="https://raw.githubusercontent.com/tabhub/cards/master/fun/programmer-self-mockery/images/koutouchan.jpeg" width="30%">
 
 ### 网络段子
-
-[Resource Url](https://raw.githubusercontent.com/tabhub/cards/master/fun/social-network-funny-pieces/manifest.json)
+([Resource Url](https://raw.githubusercontent.com/tabhub/cards/master/fun/social-network-funny-pieces/manifest.json))
 
 ## Help
 
 ### Getting Started Guide
+([Resource Url](https://raw.githubusercontent.com/tabhub/cards/master/help/guide/manifest.json))
 
-[Resource Url](https://raw.githubusercontent.com/tabhub/cards/master/help/guide/manifest.json)
-
-<image src="https://raw.githubusercontent.com/tabhub/cards/master/help/guide/images/welcome.png" width="50%">
-
+<image src="https://raw.githubusercontent.com/tabhub/cards/master/help/guide/images/welcome.png" width="30%">
