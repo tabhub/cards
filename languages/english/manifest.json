@@ -8,6 +8,11 @@
             "name": "Word of the Day Vocabulary",
             "type": "resource",
             "path": "/word-of-the-day-dictionary_com"
+        },
+        {
+            "name": "Quotes",
+            "type": "resource",
+            "path": "/quotes"
         }
     ]
 }

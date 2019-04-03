@@ -11,6 +11,10 @@
         "url": "https://raw.githubusercontent.com/tabhub/cards/master/languages/english/word-of-the-day-dictionary_com/manifest.json"
       },
       {
+        "name": "English | Quotes",
+        "url": "https://raw.githubusercontent.com/tabhub/cards/master/languages/english/quotes/manifest.json"
+      },
+      {
         "name": "Japanese | JLPT-N5 Vocabulary",
         "url": "https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n5-vocabulary-jtest4you/manifest.json"
       },
