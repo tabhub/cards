@@ -1,0 +1,13 @@
+{
+    "name": "English",
+    "version": "1.0",
+    "type": "category",
+    "repo": "https://github.com/tabhub/cards/languages/english",
+    "items": [
+        {
+            "name": "Word of the Day Vocabulary",
+            "type": "resource",
+            "path": "/word-of-the-day-dictionary_com"
+        }
+    ]
+}
