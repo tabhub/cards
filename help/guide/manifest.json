@@ -7,7 +7,7 @@
         {
             "name": "welcome new users",
             "type": "image",
-            "image_style": "800px*600px*50px",
+            "image_style": "800px*600px*40px",
             "url": "https://raw.githubusercontent.com/tabhub/cards/master/help/guide/images/welcome.png"
         }
     ]
