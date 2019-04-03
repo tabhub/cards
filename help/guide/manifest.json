@@ -5,10 +5,16 @@
     "type": "resource",
     "items": [
         {
-            "name": "welcome new users",
+            "name": "Welcome new users",
             "type": "image",
             "image_style": "800px*600px*40px",
             "url": "https://raw.githubusercontent.com/tabhub/cards/master/help/guide/images/welcome.png"
+        },
+        {
+            "name": "How to set your own resource url",
+            "type": "image",
+            "image_style": "338px*600px*40px",
+            "url": "https://raw.githubusercontent.com/tabhub/cards/master/help/guide/images/how_to_set_your_own_resource_url.png"
         }
     ]
 }
