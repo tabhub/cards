@@ -3,6 +3,7 @@
     "version": "1.0",
     "repo": "https://github.com/tabhub/cards/fun/programmer-self-mochery",
     "type": "resource",
+    "image_style": "500px*500px*70px",
     "items": [
         {
             "name": "互联网口头禅",
