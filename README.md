@@ -1,6 +1,6 @@
 # Cards: TabHub Official Resources Repo
 
-You can search `tabhub` or just click [here](https://chrome.google.com/webstore/detail/tabhub/eolilpdjccnmkecllnlpomoaommkcdkb) to install TabHub.
+You can search `tabhub` in [Chrome Webstore](https://chrome.google.com/webstore/category/extensions) or just click [here](https://chrome.google.com/webstore/detail/tabhub/eolilpdjccnmkecllnlpomoaommkcdkb) to install TabHub.
 
 You can follow some schema as such a [JSON file](https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n5-vocabulary-jtest4you/manifest.json) to make your own resource, then input that url in `TabHub`'s setting page.
 
