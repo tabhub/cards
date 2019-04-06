@@ -20,7 +20,7 @@ Note: The contents come from Internet, contact us to delete if some demages your
 ### English | Quotes
 ([Resource Url](https://raw.githubusercontent.com/tabhub/cards/master/languages/english/quotes/manifest.json))
 
-<image src="https://raw.githubusercontent.com/tabhub/cards/master/languages/english/quotes/images/6f6febe2a43f0a473cfd42c833625e83.jpg" width="30%">
+<image src="https://raw.githubusercontent.com/tabhub/cards/master/languages/english/quotes/images/01bc5852585b3fb46c2f2cfc71aea0b6.jpg" width="30%">
 
 ### Japanese | JLPT-N5 Vocabulary
 ([Resource Url](https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n5-vocabulary-jtest4you/manifest.json))
