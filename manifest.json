@@ -10,6 +10,11 @@
             "path": "/languages"
         },
         {
+            "name": "Quotes",
+            "type": "category",
+            "path": "/quotes"
+        },
+        {
             "name": "Fun",
             "type": "category",
             "path": "/fun"

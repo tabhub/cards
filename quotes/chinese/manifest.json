@@ -1,0 +1,14 @@
+{
+    "name": "Quotes in Chinese",
+    "version": "1.0",
+    "repo": "https://github.com/tabhub/cards/quotes/chinese",
+    "type": "resource",
+    "items": [
+        {
+            "name": "应无所住",
+            "type": "image",
+            "image_style": "400px*600px*20px",
+            "url": "https://raw.githubusercontent.com/tabhub/cards/master/quotes/chinese/images/xuyun_ywsz.gif"
+        }
+    ]
+}
