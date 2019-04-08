@@ -1,6 +1,7 @@
 {
   "categories": [
     "Languages",
+    "Quotes",
     "Fun",
     "Help"
   ],
@@ -9,10 +10,6 @@
       {
         "name": "English | Word of the Day Vocabulary",
         "url": "https://raw.githubusercontent.com/tabhub/cards/master/languages/english/word-of-the-day-dictionary_com/manifest.json"
-      },
-      {
-        "name": "English | Quotes",
-        "url": "https://raw.githubusercontent.com/tabhub/cards/master/languages/english/quotes/manifest.json"
       },
       {
         "name": "Japanese | JLPT-N5 Vocabulary",
@@ -41,6 +38,16 @@
       {
         "name": "Japanese | Japanese Phrases from Anime/Manga",
         "url": "https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/japanese-phrases-from-animemanga-jtest4you/manifest.json"
+      }
+    ],
+    [
+      {
+        "name": "Quotes in Chinese",
+        "url": "https://raw.githubusercontent.com/tabhub/cards/master/quotes/chinese/manifest.json"
+      },
+      {
+        "name": "Quotes in English",
+        "url": "https://raw.githubusercontent.com/tabhub/cards/master/quotes/english/manifest.json"
       }
     ],
     [
