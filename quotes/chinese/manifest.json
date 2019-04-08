@@ -9,6 +9,12 @@
             "type": "image",
             "image_style": "400px*600px*30px",
             "url": "https://raw.githubusercontent.com/tabhub/cards/master/quotes/chinese/images/xuyun_ywsz.gif"
+        },
+        {
+            "name": "难得糊涂",
+            "type": "image",
+            "image_style": "870px*373px*220px",
+            "url": "https://raw.githubusercontent.com/tabhub/cards/master/quotes/chinese/images/nandehutu.jpeg"
         }
     ]
 }
