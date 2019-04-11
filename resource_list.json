@@ -2,6 +2,7 @@
   "categories": [
     "Languages",
     "Quotes",
+    "Someecards",
     "Fun",
     "Help"
   ],
@@ -48,6 +49,16 @@
       {
         "name": "Quotes in English",
         "url": "https://raw.githubusercontent.com/tabhub/cards/master/quotes/english/manifest.json"
+      }
+    ],
+    [
+      {
+        "name": "Most Popular Ecards",
+        "url": "https://raw.githubusercontent.com/tabhub/cards/master/someecards/most-popular-ecards/manifest.json"
+      },
+      {
+        "name": "Newest Ecards",
+        "url": "https://raw.githubusercontent.com/tabhub/cards/master/someecards/newest-ecards/manifest.json"
       }
     ],
     [
