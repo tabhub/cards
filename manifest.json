@@ -20,11 +20,6 @@
             "path": "/someecards"
         },
         {
-            "name": "Fun",
-            "type": "category",
-            "path": "/fun"
-        },
-        {
             "name": "Help",
             "type": "category",
             "path": "/help"
