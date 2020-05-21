@@ -3,7 +3,6 @@
     "Languages",
     "Quotes",
     "Someecards",
-    "Fun",
     "Help"
   ],
   "items": [
@@ -59,16 +58,6 @@
       {
         "name": "Newest Ecards",
         "url": "https://raw.githubusercontent.com/tabhub/cards/master/someecards/newest-ecards/manifest.json"
-      }
-    ],
-    [
-      {
-        "name": "程序猿自黑指南",
-        "url": "https://raw.githubusercontent.com/tabhub/cards/master/fun/programmer-self-mockery/manifest.json"
-      },
-      {
-        "name": "网络段子",
-        "url": "https://raw.githubusercontent.com/tabhub/cards/master/fun/social-network-funny-pieces/manifest.json"
       }
     ],
     [
