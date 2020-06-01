@@ -65,16 +65,6 @@ Note: The contents come from Internet, contact us to delete if some demages your
 
 <image src="https://raw.githubusercontent.com/tabhub/cards/master/quotes/english/images/761a3b431b86d34040a2d6b1696ed54d.jpg" width="30%">
 
-## Fun
-
-### 程序猿自黑指南
-([Resource Url](https://raw.githubusercontent.com/tabhub/cards/master/fun/programmer-self-mockery/manifest.json))
-
-<image src="https://raw.githubusercontent.com/tabhub/cards/master/fun/programmer-self-mockery/images/qianheshijian.jpeg" width="30%">
-
-### 网络段子
-([Resource Url](https://raw.githubusercontent.com/tabhub/cards/master/fun/social-network-funny-pieces/manifest.json))
-
 ## Help
 
 ### Getting Started Guide
