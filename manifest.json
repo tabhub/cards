@@ -15,11 +15,6 @@
             "path": "/quotes"
         },
         {
-            "name": "Someecards",
-            "type": "category",
-            "path": "/someecards"
-        },
-        {
             "name": "Help",
             "type": "category",
             "path": "/help"
