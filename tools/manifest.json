@@ -1,0 +1,13 @@
+{
+    "name": "TabHub tools",
+    "version": "1.0",
+    "repo": "https://github.com/tabhub/cards/tools",
+    "type": "resource",
+    "items": [
+        {
+            "name": "TabHub card resource editor",
+            "type": "tabhub-app",
+            "url": "https://tabhub.io/editor/"
+        }
+    ]
+}

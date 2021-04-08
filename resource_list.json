@@ -2,6 +2,7 @@
   "categories": [
     "Languages",
     "Quotes",
+    "Tools",
     "Help"
   ],
   "items": [
@@ -47,6 +48,12 @@
       {
         "name": "Quotes in English",
         "url": "https://raw.githubusercontent.com/tabhub/cards/master/quotes/english/manifest.json"
+      }
+    ],
+    [
+      {
+        "name": "TabHub tools",
+        "url": "https://raw.githubusercontent.com/tabhub/cards/master/tools/manifest.json"
       }
     ],
     [
