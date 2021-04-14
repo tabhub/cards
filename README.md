@@ -4,7 +4,7 @@ You can search `tabhub` in [Chrome Webstore](https://chrome.google.com/webstore/
 
 You can follow some schema as such a [JSON file](https://raw.githubusercontent.com/tabhub/cards/master/languages/japanese/jlpt-n5-vocabulary-jtest4you/manifest.json) to make your own resource, then input that url in `TabHub`'s setting page.
 
-<image src="https://raw.githubusercontent.com/tabhub/cards/master/help/guide/images/how_to_set_your_own_resource_url.png" alt="TabHub: How to set a own made resource url" width="330px">
+<image src="https://raw.githubusercontent.com/tabhub/cards/master/help/guide/images/tabhub_help_en.png" alt="TabHub: How to set a own made resource url" width="550px">
 
 # Table of Official Resources
 
@@ -64,11 +64,4 @@ Note: The contents come from Internet, contact us to delete if some demages your
 ([Resource Url](https://raw.githubusercontent.com/tabhub/cards/master/quotes/english/manifest.json))
 
 <image src="https://raw.githubusercontent.com/tabhub/cards/master/quotes/english/images/761a3b431b86d34040a2d6b1696ed54d.jpg" width="30%">
-
-## Help
-
-### Getting Started Guide
-([Resource Url](https://raw.githubusercontent.com/tabhub/cards/master/help/guide/manifest.json))
-
-<image src="https://raw.githubusercontent.com/tabhub/cards/master/help/guide/images/how_to_set_your_own_resource_url.png" width="30%">
 
