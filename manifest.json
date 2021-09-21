@@ -15,6 +15,11 @@
             "path": "/quotes"
         },
         {
+            "name": "RSS Feeds",
+            "type": "category",
+            "path": "/rss-feeds"
+        },
+        {
             "name": "Tools",
             "type": "category",
             "path": "/tools"

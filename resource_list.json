@@ -2,6 +2,7 @@
   "categories": [
     "Languages",
     "Quotes",
+    "RSS Feeds",
     "Tools",
     "Help"
   ],
@@ -48,6 +49,12 @@
       {
         "name": "Quotes in English",
         "url": "https://raw.githubusercontent.com/tabhub/cards/master/quotes/english/manifest.json"
+      }
+    ],
+    [
+      {
+        "name": "Internet",
+        "url": "https://raw.githubusercontent.com/tabhub/cards/master/rss-feeds/manifest.json"
       }
     ],
     [
