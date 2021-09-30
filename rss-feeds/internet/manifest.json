@@ -1,0 +1,37 @@
+{
+    "name": "Internet",
+    "version": "1.0",
+    "repo": "https://github.com/tabhub/cards/rss-feeds/internet",
+    "type": "resource",
+    "items": [
+        {
+            "name": "Hacker News Daily",
+            "type": "rss",
+            "url": "https://raw.githubusercontent.com/tabhub/rss-feeds/main/data/hn-daily/latest.xml"
+        },
+        {
+            "type": "rss",
+            "name": "New Atlas",
+            "background_style": "#0dd9d9",
+            "url": "https://newatlas.com/index.rss"
+        },
+        {
+            "type": "rss",
+            "name": "Wired",
+            "background_style": "#8bf2f9",
+            "url": "https://www.wired.com/feed"
+        },
+        {
+            "type": "rss",
+            "name": "XKCD.com",
+            "background_style": "#000",
+            "url": "https://xkcd.com/rss.xml"
+        },
+        {
+            "type": "rss",
+            "name": "Hackaday Blog",
+            "background_style": "#8bf2f9",
+            "url": "https://hackaday.com/blog/feed/"
+        }
+    ]
+}

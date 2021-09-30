@@ -1,18 +1,23 @@
 {
-    "name": "Internet",
+    "name": "RSS Feeds",
     "version": "1.0",
+    "type": "category",
     "repo": "https://github.com/tabhub/cards/rss-feeds",
-    "type": "resource",
     "items": [
         {
-            "name": "Hacker News Daily",
-            "type": "rss",
-            "url": "https://raw.githubusercontent.com/tabhub/rss-feeds/main/data/hn-daily/latest.xml"
+            "name": "Internet",
+            "type": "category",
+            "path": "/internet"
         },
         {
-            "name": "Perl Weekly",
-            "type": "rss",
-            "url": "https://raw.githubusercontent.com/tabhub/rss-feeds/main/data/perl-weekly/latest.xml"
+            "name": "Media",
+            "type": "category",
+            "path": "/media"
+        },
+        {
+            "name": "Programming",
+            "type": "category",
+            "path": "/programming"
         }
     ]
 }

@@ -1,0 +1,23 @@
+{
+    "name": "Programming",
+    "version": "1.0",
+    "repo": "https://github.com/tabhub/cards/rss-feeds/programming",
+    "type": "resource",
+    "items": [
+        {
+            "name": "Node Weekly",
+            "type": "rss",
+            "url": "https://cprss.s3.amazonaws.com/nodeweekly.com.xml"
+        },
+        {
+            "name": "Microsoft Dev Blog - Python",
+            "type": "rss",
+            "url": "https://devblogs.microsoft.com/python/feed/"
+        },
+        {
+            "name": "Perl Weekly",
+            "type": "rss",
+            "url": "https://raw.githubusercontent.com/tabhub/rss-feeds/main/data/perl-weekly/latest.xml"
+        }
+    ]
+}

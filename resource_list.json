@@ -54,7 +54,15 @@
     [
       {
         "name": "Internet",
-        "url": "https://raw.githubusercontent.com/tabhub/cards/master/rss-feeds/manifest.json"
+        "url": "https://raw.githubusercontent.com/tabhub/cards/master/rss-feeds/internet/manifest.json"
+      },
+      {
+        "name": "Media",
+        "url": "https://raw.githubusercontent.com/tabhub/cards/master/rss-feeds/media/manifest.json"
+      },
+      {
+        "name": "Programming",
+        "url": "https://raw.githubusercontent.com/tabhub/cards/master/rss-feeds/programming/manifest.json"
       }
     ],
     [
