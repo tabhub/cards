@@ -15,9 +15,19 @@
             "url": "https://devblogs.microsoft.com/python/feed/"
         },
         {
+            "name": "Ruby Weekly",
+            "type": "rss",
+            "url": "https://cprss.s3.amazonaws.com/rubyweekly.com.xml"
+        },
+        {
             "name": "Perl Weekly",
             "type": "rss",
             "url": "https://raw.githubusercontent.com/tabhub/rss-feeds/main/data/perl-weekly/latest.xml"
+        },
+        {
+            "name": "SRE Weekly",
+            "type": "rss",
+            "url": "http://sreweekly.com/feed/"
         }
     ]
 }
