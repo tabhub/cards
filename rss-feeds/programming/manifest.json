@@ -20,6 +20,11 @@
             "url": "https://cprss.s3.amazonaws.com/rubyweekly.com.xml"
         },
         {
+            "name": "Haskell Weekly",
+            "type": "rss",
+            "url": "https://haskellweekly.news/newsletter.atom"
+        },
+        {
             "name": "Perl Weekly",
             "type": "rss",
             "url": "https://raw.githubusercontent.com/tabhub/rss-feeds/main/data/perl-weekly/latest.xml"
