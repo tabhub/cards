@@ -7,7 +7,7 @@
         {
             "name": "TabHub card resource editor",
             "type": "tabhub-app",
-            "url": "https://tabhub.io/editor/"
+            "url": "https://tabhub.github.io/editor/"
         }
     ]
 }
